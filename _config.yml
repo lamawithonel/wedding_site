@@ -9,7 +9,7 @@ tagline:       blog
 description:   Katie & Lucas' Wedding Site
 url:           http://katie-and-lucas.com
 permalink:     /blog/:title
-commentsystem: google
+commentsystem:
 disqus:
 paginate:      5
 
