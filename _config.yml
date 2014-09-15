@@ -20,7 +20,7 @@ author:
 
 # Custom vars
 icon:  /assets/images/mon.png
-cover: /assets/images/k+l.jpeg
+cover: /assets/images/katie_lucas_eng_drew_bird_photo_109.jpg
 
 social:
   - icon: github
@@ -46,3 +46,6 @@ copyright:
   url:        http://katie-and-lucas.com
   type_title: All rights reserved
   type_url:
+  photo:
+      owner: Drew Bird Photography
+      url: http://www.drewbirdphoto.com
